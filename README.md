@@ -72,6 +72,6 @@ Programmazione a oggetti, basi di dati, architettura dei calcolatori, teoria deg
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenzosebastiani2410@gmail.com)
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TUO-USERNAME&show_icons=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO-USERNAME&layout=compact&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LorenzoSebastiani&show_icons=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoSebastiani&layout=compact&hide_border=true" height="160" />
 </p>
