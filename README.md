@@ -68,8 +68,8 @@ Programmazione a oggetti, basi di dati, architettura dei calcolatori, teoria deg
 ## 📫 Contatti
 
 <!-- Sostituisci con i tuoi link -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TUO-PROFILO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tua@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lorenzo-sebastiani-228693327)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenzosebastiani2410@gmail.com)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=TUO-USERNAME&show_icons=true&hide_border=true" height="160" />
